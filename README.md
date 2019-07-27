@@ -1,4 +1,4 @@
-# this repo for kaggle-open-image2019
+# kaggle-open-image2019
 centernet已经可以直接运行测试，按照centernet的README下载相应的预训练模型到centernet/models文件夹（https://github.com/xingyizhou/CenterNet）；
 
 在ctdet.py文件下show_results函数下修改结果的存储路径；
